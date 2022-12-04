@@ -1,0 +1,12 @@
+git config --global user.email "eduardo.mexa@hotmail.com"
+git config --global user.name "River"     
+
+git init --recursive
+Initialized empty Git repository in /Users/eduardo.home/JSBeginner/course/src/react/.git/
+
+git remote add origin https://github.com/drSilence88/first-githbub-project.git
+
+git status
+
+Save the all chances
+git add .
