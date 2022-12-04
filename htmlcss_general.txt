@@ -1,0 +1,22 @@
+Level Elements: Inline vs Block
+Block elements start on a line and take the full width available: <div>, <h1>, till <h6>, <p>
+Inline elements do not star on a new line and take only the necessary width: <span>, <a>, <button>
+
+div: groups elements together
+a: create a reference to a page with href="http://"
+    * target="_blank": use to open in other page the href 
+
+na: navigation bar
+main: es where all your code is located
+footer: all the links of the page
+section: separe to sections, to have more structure
+form: uses all the webpages for login
+
+<input required>: is necessary to add that information
+
+Commands: 
+start + arrow up or arrow down: you can move the line
+alt + D choose the word
+
+Extension:
+Prettier
