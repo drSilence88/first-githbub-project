@@ -16,3 +16,8 @@ git commit -m "initalized git repository"
 
 Submit the chances
 git push --set-upstream test master
+
+This three is to save the changes:
+git add .                          
+git commit -m "test-1"
+git push
